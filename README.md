@@ -3,7 +3,7 @@ Nodejs Library for detect network speed
 
 # Sample
 
-    var detectSpeed= require("./detectSpeed");
+    var detectSpeed= require("detect-speed");
 
     //Callback to receive timing information
     var callback = function (timings) {
