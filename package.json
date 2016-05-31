@@ -1,0 +1,25 @@
+{
+  "name": "detect-speed",
+  "version": "1.0.0",
+  "dependencies": {
+    "http": "*",
+    "url": "*"
+  },
+  "description": "Help you detect network speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blackie1019 (http://blackie1019.github.io)",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "sindresorhus@gmail.com",
+      "name": "sindresorhus"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackie1019/detect-speed.git"
+  }
+}
